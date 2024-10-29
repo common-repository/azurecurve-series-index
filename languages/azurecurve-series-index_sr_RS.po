@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: azurecurve-series-index\n"
+"POT-Creation-Date: 2014-11-29 10:36-0000\n"
+"PO-Revision-Date: 2014-12-17 19:32-0000\n"
+"Last-Translator: azurecurve WordPress Development <wordpress@azurecurve.co."
+"uk>\n"
+"Language-Team: azurecurve WordPress Development <wordpress@azurecurve.co."
+"uk>\n"
+"Language: sr_RS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ..\\\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;sprintf\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: azurecurve-series-index.php:157
+#, php-format
+msgid "Click to show/hide the %s Series Index"
+msgstr "Kliknite da biste prikazali/sakrili %s indeks serije"
+
+#: azurecurve-series-index.php:174
+msgid "Settings"
+msgstr "Podešavanja"
+
+#: azurecurve-series-index.php:192
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nemate odgovarajuće dozvole za pristup ovoj stranici"
+
+#: azurecurve-series-index.php:200
+msgid "azurecurve Series Index Configuration"
+msgstr "azurecurve Series Index Konfiguracija"
+
+#: azurecurve-series-index.php:209
+msgid "When creating a series of posts there are two custom fields required:"
+msgstr "Kad kreirate seriju postova, obavezna su dva prilagođena polja:"
+
+#: azurecurve-series-index.php:211
+msgid "This is the title of the series."
+msgstr "Ovo je naziv serije."
+
+#: azurecurve-series-index.php:212
+msgid ""
+"This is the order the posts should be displayed in; any post which is part "
+"of the series, but should not be included in the displayed index should have "
+"a series index of <strong>0</strong>."
+msgstr ""
+"Ovo je redosled kojim postovi treba da budu prikazani; ako je neki post deo "
+"serije, a treba da bude izostavljen iz prikazanog indeksa, trebalo bi da ima "
+"indeks serije <strong>0</strong>."
+
+#: azurecurve-series-index.php:214
+#, php-format
+msgid ""
+"Place the %1$s shortcode in the post where the index should be displayed. "
+"The series index to be displayed is automatically derived from the %2$s "
+"custom field. The shortcode can be used in any post or page if the title "
+"parameter is used (see below)."
+msgstr ""
+"Unesite %1$s shortcode u post gde treba da se prikaže indeks. Indeks serije "
+"koji treba da se prikaže automatski izvodi se iz prilagođenog polja %2$s. "
+"Shortcode se može koristiti u bilo kom postu ili na bilo kojoj stranici gde "
+"se upotrebljava parametar naslov (vidite dole). "
+
+#: azurecurve-series-index.php:216
+msgid "There are three optional parameters which can be used:"
+msgstr "Postoje tri opciona parametra koji se mogu koristiti:"
+
+#: azurecurve-series-index.php:219
+msgid ""
+"only required if the series index is not being displayed in a post (or a "
+"page) within the series; set it to the title of the required series."
+msgstr ""
+"obavezan je samo ako indeks serije nije prikazan u postu (ili na stranici) "
+"unutar serije; podesite ga na naslov obavezne serije. "
+
+#: azurecurve-series-index.php:221
+msgid ""
+"only required if the series title in the post name differs from the "
+"<strong>Series</strong> custom field."
+msgstr ""
+"obavezan je samo ako se naziv serije u imenu posta razlikuje od prilagođenog "
+"polja <strong>Serija</strong>."
+
+#: azurecurve-series-index.php:223
+msgid ""
+"only required if the series index should have a different width to the "
+"default specified in the settings."
+msgstr ""
+"obavezan je samo ako indeks serije treba da ima različiti širinu u odnosu na "
+"podrazumevanu, navedenu u postavkama."
+
+#: azurecurve-series-index.php:225
+msgid "enables the show/hide toggle."
+msgstr "aktivira prekidač prikaži/sakrij "
+
+#: azurecurve-series-index.php:227
+msgid ""
+"only required to override the default toggle heading of \"Click to show/hide "
+"<series title> Series Index\"."
+msgstr ""
+"obavezan je samo za poništavanje podrazumevanog naslova prekidača \"Klikni "
+"za prikazivanje/sakrivanje <naslova serije> Indeks serije\"."
+
+#: azurecurve-series-index.php:230
+msgid "Index Width"
+msgstr "Širina indeksa"
+
+#: azurecurve-series-index.php:232
+#, php-format
+msgid "Specify the width of the index; e.g. 75% or 500px"
+msgstr "Odredite širinuindex; e.g.75%  or  500px"
+
+#: azurecurve-series-index.php:235
+msgid "Toggle Default"
+msgstr "Podrazumevani prekidač"
+
+#: azurecurve-series-index.php:236
+msgid "Show/Hide Toggle default enabled?"
+msgstr "Prikaži/Sakrij podrazumevani aktivirani prekidač?"
+
+#: azurecurve-series-index.php:239
+msgid "Title Separator"
+msgstr "Separator naslova"
+
+#: azurecurve-series-index.php:240
+msgid "Space before title separator?"
+msgstr "Razmak ispred separatora naslova?"
+
+#: azurecurve-series-index.php:241
+msgid "Space before?"
+msgstr "Razmak ispred?"
+
+#: azurecurve-series-index.php:242
+msgid "Space after title separator?"
+msgstr "Razmak iza separatora naslova?"
+
+#: azurecurve-series-index.php:243
+msgid "Space after?"
+msgstr "Razmak iza?"
+
+#: azurecurve-series-index.php:245
+msgid ""
+"If your series title is included in the post title specify the separator and "
+"surrounding spaces. e.g. <strong>Installing Microsoft Dynamics GP 2013 R2: "
+"Introduction</strong> has a separator of <strong>:</strong> with a following "
+"space so the <strong>Space before?</strong> checkbox should be unmarked, "
+"<strong>:</strong> entered in the text box and the <strong>Space after?</"
+"strong> checkbox marked."
+msgstr ""
+"Ako je vaš naziv serije obuhvaćen naslovom posta, odredite separator i "
+"razmake koji ga okružuju, npr. <strong>Microsoft Dynamics GP 2013 "
+"Instaliranje R2: Uvod</strong> ima separator <strong>:</strong> sa pratećim "
+"razmakom, tako da ovir za štikliranje <strong>Razmak ispred?</strong> treba "
+"da ostane neštikliran, a dve tačke <strong>:</strong> unete u okvir za "
+"tekst, kao i <strong>Razmak iza?</strong> "
+
+#: azurecurve-series-index.php:247
+msgid "Start/End Index"
+msgstr "Počni/Završi indeks"
+
+#: azurecurve-series-index.php:250
+#, php-format
+msgid ""
+"Enter %s to be swapped out for value specified in Width field otherwise "
+"100%% will be used."
+msgstr ""
+"Unesite %s da biste izmenili vrednost navedenu u polju Širina; u suprotnom "
+"će se koristiti 100%%."
+
+#: azurecurve-series-index.php:252 azurecurve-series-index.php:253
+msgid "Enable Header Row"
+msgstr "Aktiviraj red zaglavlja"
+
+#: azurecurve-series-index.php:254
+msgid "Display header row?"
+msgstr "Prikaži red zaglavlja?"
+
+#: azurecurve-series-index.php:257
+msgid "Start/End Header Row"
+msgstr "Počni/Završi red zaglavlja"
+
+#: azurecurve-series-index.php:261
+msgid "Start/End Detail Row"
+msgstr "Počni/Završi red detalja"
+
+#: azurecurve-series-index.php:266
+msgid "Start/End Current Row"
+msgstr "Počni/Završi tekući red"
+
+#: azurecurve-series-index.php:269
+msgid "The current post can be formatted differently to the other detail rows."
+msgstr ""
+"Tekući post može biti različito formatiran prema drugim redovima detalja. "
+
+#: azurecurve-series-index.php:297
+msgid "You do not have sufficient permissions to perform this action."
+msgstr "Nemate odgovarajuće dozvole za izvođenje ove aktivnosti."
